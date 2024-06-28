@@ -10,7 +10,7 @@
 # TOTAL: 27
 HOST,browser-intake-datadoghq.com,OpenAI
 HOST,static.cloudflareinsights.com,OpenAI
-HOST-SUFFIX,openai.com,OpenAI
+HOST,ios.chat.openai.com,OpenAI
 HOST-SUFFIX,ai.com,OpenAI
 HOST-SUFFIX,algolia.net,OpenAI
 HOST-SUFFIX,api.statsig.com,OpenAI
